@@ -1,0 +1,32 @@
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.exe
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.deps.json
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.runtimeconfig.json
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.runtimeconfig.dev.json
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.dll
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\ref\GA_Lab_5.dll
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.pdb
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.AssemblyInfo.cs
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.dll
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\ref\GA_Lab_5.dll
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.pdb
+C:\Users\dev\source\repos\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.genruntimeconfig.cache
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.exe
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.deps.json
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.runtimeconfig.json
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.runtimeconfig.dev.json
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.dll
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\ref\GA_Lab_5.dll
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\bin\Debug\net5.0\GA_Lab_5.pdb
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.csproj.AssemblyReference.cache
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.AssemblyInfoInputs.cache
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.AssemblyInfo.cs
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.dll
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\ref\GA_Lab_5.dll
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.pdb
+C:\Users\sabin\Downloads\GA_Lab_5 (2)\GA_Lab_5\GA_Lab_5\obj\Debug\net5.0\GA_Lab_5.genruntimeconfig.cache
